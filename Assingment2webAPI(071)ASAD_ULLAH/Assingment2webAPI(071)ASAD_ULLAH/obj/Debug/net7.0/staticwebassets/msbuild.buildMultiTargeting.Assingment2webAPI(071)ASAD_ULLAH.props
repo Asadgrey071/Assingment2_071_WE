@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Assingment2webAPI(071)ASAD_ULLAH.props" />
+</Project>

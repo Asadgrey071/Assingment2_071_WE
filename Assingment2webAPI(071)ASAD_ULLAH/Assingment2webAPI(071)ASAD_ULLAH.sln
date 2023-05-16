@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assingment2webAPI(071)ASAD_ULLAH", "Assingment2webAPI(071)ASAD_ULLAH\Assingment2webAPI(071)ASAD_ULLAH.csproj", "{026979E9-F19B-4466-A4FE-66E1657CC6B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{026979E9-F19B-4466-A4FE-66E1657CC6B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{026979E9-F19B-4466-A4FE-66E1657CC6B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{026979E9-F19B-4466-A4FE-66E1657CC6B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{026979E9-F19B-4466-A4FE-66E1657CC6B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DAB6D3C-856B-4BCE-B065-F3E838EACDF2}
+	EndGlobalSection
+EndGlobal
